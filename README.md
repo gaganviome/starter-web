@@ -4,6 +4,6 @@
 
 ## Purpose
 
-Sample website with plenty of files for demos
+## Deploy
 
-## Test commit 1
+## How To Contribute
